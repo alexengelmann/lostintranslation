@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>lostintranslation</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Search JSON files for fun and profit</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
